@@ -1,3 +1,4 @@
+cat << 'EOF' > README.md
 # 🧠 **AI-Medical-Chatbot**
 
 **An AI-powered chatbot built with Natural Language Processing (NLP) to provide preliminary medical guidance based on user-described symptoms. This project demonstrates how conversational AI can assist users in understanding their health conditions through interactive, data-driven responses.**
@@ -67,13 +68,8 @@ AI-Medical-Chatbot/
 
 ---
 
-## 📄 **License**
-
-**This project is open-source and available under the [MIT License](LICENSE).**
-
----
-
 ## 🙌 **Acknowledgements**
 
 - **Medical chatbot concept inspired by real patient-doctor conversations**
 - **Dataset: Publicly available simulated medical dialogues**
+EOF
